@@ -1,3 +1,4 @@
+
 ======
 影之诗EVOLVE规则书 Shadowverse EVOLVE 総合ルール
 ======
