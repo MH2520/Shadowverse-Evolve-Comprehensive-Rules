@@ -1,9 +1,3 @@
-Template for the Read the Docs tutorial
+影之诗EVOLVE规则书汉化版
 =======================================
-
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
-
-Read the tutorial here:
-
-https://docs.readthedocs.io/en/stable/tutorial/
+总之就是影之诗实体卡的规则书和FAQ的翻译
