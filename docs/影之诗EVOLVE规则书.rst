@@ -43,6 +43,11 @@
 
 2. カードの情報
 ======
+
+.. figure:: _static/images/卡牌信息.png
+    :align: center
+    :target: _static/images/卡牌信息.png
+
  フォロワー スペル アミュレット（エボルヴフォロワー） リーダー
 ① カード名
 ② クラス
