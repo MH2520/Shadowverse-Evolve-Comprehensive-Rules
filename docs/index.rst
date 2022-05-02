@@ -14,6 +14,7 @@
 目录
 ======
 .. toctree::
+   :maxdepth: 1
    影之诗EVOLVE规则书
    Q&A
 
