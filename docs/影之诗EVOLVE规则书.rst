@@ -44,9 +44,9 @@
 2. カードの情報
 ======
 
-.. figure:: ./_static/images/卡牌信息.png
+.. figure:: ./_static/images/picture1.png
     :align: center
-    :target: ./_static/images/卡牌信息.png
+    :target: ./_static/images/picture1.png
 
     卡牌信息
 
