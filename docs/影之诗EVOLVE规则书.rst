@@ -62,49 +62,49 @@
 - 2.2.2. クラスはアイコンで表記されます。
 
 .. figure:: ./_static/icons/icon_neutral.png
-    :align: right
+    :align: center
     :width: 25 %
     :target: ./_static/icons/icon_neutral.png
 
     ニュートラル
 
 .. figure:: ./_static/icons/icon_elf.png
-    :align: right
+    :align: center
     :width: 25 %
     :target: ./_static/icons/icon_elf.png
 
     エルフ
 
 .. figure:: ./_static/icons/icon_royal.png
-    :align: right
+    :align: center
     :width: 25 %
     :target: ./_static/icons/icon_royal.png
 
     ロイヤル
 
 .. figure:: ./_static/icons/icon_witch.png
-    :align: right
+    :align: center
     :width: 25 %
     :target: ./_static/icons/icon_witch.png
 
     ウィッチ
 
 .. figure:: ./_static/icons/icon_dragon.png
-    :align: right
+    :align: center
     :width: 25 %
     :target: ./_static/icons/icon_dragon.png
 
     ドラゴン
 
 .. figure:: ./_static/icons/icon_nightmare.png
-    :align: right
+    :align: center
     :width: 25 %
     :target: ./_static/icons/icon_nightmare.png
 
     ナイトメア
 
 .. figure:: ./_static/icons/icon_bishop.png
-    :align: right
+    :align: center
     :width: 25 %
     :target: ./_static/icons/icon_bishop.png
 
