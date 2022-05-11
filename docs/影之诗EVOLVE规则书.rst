@@ -63,6 +63,7 @@
 
 .. list-table::
     :align: center
+    
     * - .. figure:: ./_static/icons/icon_neutral.png
 
            ニュートラル
