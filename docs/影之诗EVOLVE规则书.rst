@@ -71,13 +71,27 @@
 
            エルフ
 
-    * - .. figure:: ./_static/icons/icon_royal.png
+      - .. figure:: ./_static/icons/icon_royal.png
 
            ロイヤル
 
       - .. figure:: ./_static/icons/icon_witch.png
 
            ウィッチ
+    
+    * - 
+
+      - .. figure:: ./_static/icons/icon_dragon.png
+
+           ドラゴン
+
+      - .. figure:: ./_static/icons/icon_nightmare.png
+
+           ナイトメア
+
+      - .. figure:: ./_static/icons/icon_bishop.png
+
+           ビショップ
 
 .. figure:: ./_static/icons/icon_neutral.png
     :align: center
