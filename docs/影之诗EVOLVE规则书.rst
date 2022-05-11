@@ -64,39 +64,39 @@
 .. list-table::
     :align: center
     
-    * - .. figure:: ./_static/icons/icon_neutral.png
+    * - .. figure:: ./_static/icons/中立（大）.png
             :align: center
 
             ニュートラル
 
-      - .. figure:: ./_static/icons/icon_elf.png
+      - .. figure:: ./_static/icons/精灵（大）.png
             :align: center
 
             エルフ
 
-      - .. figure:: ./_static/icons/icon_royal.png
+      - .. figure:: ./_static/icons/皇室（大）.png
             :align: center
 
             ロイヤル
 
-      - .. figure:: ./_static/icons/icon_witch.png
+      - .. figure:: ./_static/icons/巫师（大）.png
             :align: center
 
             ウィッチ
     
     * - 
 
-      - .. figure:: ./_static/icons/icon_dragon.png
+      - .. figure:: ./_static/icons/龙族（大）.png
             :align: center
 
             ドラゴン
 
-      - .. figure:: ./_static/icons/icon_nightmare.png
+      - .. figure:: ./_static/icons/梦魇（大）.png
             :align: center
 
             ナイトメア
 
-      - .. figure:: ./_static/icons/icon_bishop.png
+      - .. figure:: ./_static/icons/主教（大）.png
             :align: center
 
             ビショップ
