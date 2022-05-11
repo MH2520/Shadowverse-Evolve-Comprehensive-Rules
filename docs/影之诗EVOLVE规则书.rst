@@ -61,6 +61,24 @@
 - 2.2.1. このカードが属するクラスです。
 - 2.2.2. クラスはアイコンで表記されます。
 
+.. list-table:: 
+
+    * - .. figure:: ./_static/icons/icon_neutral.png
+
+           ニュートラル
+
+      - .. figure:: ./_static/icons/icon_elf.png
+
+           エルフ
+
+    * - .. figure:: ./_static/icons/icon_royal.png
+
+           ロイヤル
+
+      - .. figure:: ./_static/icons/icon_witch.png
+
+           ウィッチ
+
 .. figure:: ./_static/icons/icon_neutral.png
     :align: center
     :width: 25 %
