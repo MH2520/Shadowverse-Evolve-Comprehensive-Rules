@@ -61,8 +61,8 @@
 - 2.2.1. このカードが属するクラスです。
 - 2.2.2. クラスはアイコンで表記されます。
 
-.. list-table:: 
-
+.. list-table::
+    :align: center
     * - .. figure:: ./_static/icons/icon_neutral.png
 
            ニュートラル
@@ -92,55 +92,6 @@
       - .. figure:: ./_static/icons/icon_bishop.png
 
            ビショップ
-
-.. figure:: ./_static/icons/icon_neutral.png
-    :align: center
-    :width: 25 %
-    :target: ./_static/icons/icon_neutral.png
-
-    ニュートラル
-
-.. figure:: ./_static/icons/icon_elf.png
-    :align: center
-    :width: 25 %
-    :target: ./_static/icons/icon_elf.png
-
-    エルフ
-
-.. figure:: ./_static/icons/icon_royal.png
-    :align: center
-    :width: 25 %
-    :target: ./_static/icons/icon_royal.png
-
-    ロイヤル
-
-.. figure:: ./_static/icons/icon_witch.png
-    :align: center
-    :width: 25 %
-    :target: ./_static/icons/icon_witch.png
-
-    ウィッチ
-
-.. figure:: ./_static/icons/icon_dragon.png
-    :align: center
-    :width: 25 %
-    :target: ./_static/icons/icon_dragon.png
-
-    ドラゴン
-
-.. figure:: ./_static/icons/icon_nightmare.png
-    :align: center
-    :width: 25 %
-    :target: ./_static/icons/icon_nightmare.png
-
-    ナイトメア
-
-.. figure:: ./_static/icons/icon_bishop.png
-    :align: center
-    :width: 25 %
-    :target: ./_static/icons/icon_bishop.png
-
-    ビショップ
 
 - 2.2.3. クラスはデッキ構築の際に参照されます。また、カードにより参照されることがあります。
 
