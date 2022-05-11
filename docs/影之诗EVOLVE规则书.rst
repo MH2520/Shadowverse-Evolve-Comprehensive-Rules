@@ -65,34 +65,41 @@
     :align: center
     
     * - .. figure:: ./_static/icons/icon_neutral.png
+            :align: center
 
-           ニュートラル
+            ニュートラル
 
       - .. figure:: ./_static/icons/icon_elf.png
+            :align: center
 
-           エルフ
+            エルフ
 
       - .. figure:: ./_static/icons/icon_royal.png
+            :align: center
 
-           ロイヤル
+            ロイヤル
 
       - .. figure:: ./_static/icons/icon_witch.png
+            :align: center
 
-           ウィッチ
+            ウィッチ
     
     * - 
 
       - .. figure:: ./_static/icons/icon_dragon.png
+            :align: center
 
-           ドラゴン
+            ドラゴン
 
       - .. figure:: ./_static/icons/icon_nightmare.png
+            :align: center
 
-           ナイトメア
+            ナイトメア
 
       - .. figure:: ./_static/icons/icon_bishop.png
+            :align: center
 
-           ビショップ
+            ビショップ
 
 - 2.2.3. クラスはデッキ構築の際に参照されます。また、カードにより参照されることがあります。
 
