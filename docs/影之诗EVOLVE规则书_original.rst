@@ -59,7 +59,48 @@
 ------
 
 - 2.2.1. このカードが属するクラスです。
-- 2.2.2. クラスはアイコンで表記されます。ニュートラル エルフ ロイヤル ウィッチドラゴン ナイトメア ビショップ
+- 2.2.2. クラスはアイコンで表記されます。
+
+.. list-table::
+    :align: center
+    
+    * - .. figure:: ./_static/icons/中立（大）.png
+            :align: center
+
+            ニュートラル
+
+      - .. figure:: ./_static/icons/精灵（大）.png
+            :align: center
+
+            エルフ
+
+      - .. figure:: ./_static/icons/皇室（大）.png
+            :align: center
+
+            ロイヤル
+
+      - .. figure:: ./_static/icons/巫师（大）.png
+            :align: center
+
+            ウィッチ
+    
+    * - 
+
+      - .. figure:: ./_static/icons/龙族（大）.png
+            :align: center
+
+            ドラゴン
+
+      - .. figure:: ./_static/icons/梦魇（大）.png
+            :align: center
+
+            ナイトメア
+
+      - .. figure:: ./_static/icons/主教（大）.png
+            :align: center
+
+            ビショップ
+
 - 2.2.3. クラスはデッキ構築の際に参照されます。また、カードにより参照されることがあります。
 
 2.3. 種類
