@@ -1077,26 +1077,26 @@ _`14.2`. 永久循環
   :height: 16
   :alt: power
 .. |hp| image:: ./_static/icons/icon_hp.png
-  :height: 20
+  :height: 16
   :alt: hp
 .. |cost| image:: ./_static/icons/icon_cost.png
-  :height: 20
+  :height: 16
   :alt: cost
 .. |stand| image:: ./_static/icons/icon_stand.png
-  :height: 20
+  :height: 16
   :alt: stand
 .. |act| image:: ./_static/icons/icon_act.png
-  :height: 20
+  :height: 16
   :alt: act
 .. |fanfare| image:: ./_static/icons/icon_fanfare.png
-  :height: 20
+  :height: 16
   :alt: fanfare
 .. |lastword| image:: ./_static/icons/icon_lastword.png
-  :height: 20
+  :height: 16
   :alt: lastword
 .. |evolve| image:: ./_static/icons/icon_evolve.png
-  :height: 20
+  :height: 16
   :alt: evolve
 .. |quick| image:: ./_static/icons/icon_quick.png
-  :height: 20
+  :height: 16
   :alt: quick
