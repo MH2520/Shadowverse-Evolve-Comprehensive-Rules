@@ -1074,6 +1074,8 @@ _`14.2`. 永久循環
 - 守護能力の定義を修正しました。
 
 .. |power| image:: ./_static/icons/icon_power.png
+  :height: 20
+  :alt: 攻击力
 .. |hp| image:: ./_static/icons/icon_hp.png
 .. |cost| image:: ./_static/icons/icon_cost.png
 .. |stand| image:: ./_static/icons/icon_stand.png
