@@ -1075,7 +1075,6 @@ _`14.2`. 永久循環
 
 .. |power| image:: ./_static/icons/icon_power.png
   :height: 16
-  :align: middle
   :alt: power
 .. |hp| image:: ./_static/icons/icon_hp.png
   :height: 16
