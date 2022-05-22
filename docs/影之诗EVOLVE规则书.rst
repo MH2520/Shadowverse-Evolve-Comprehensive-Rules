@@ -1074,13 +1074,29 @@ _`14.2`. 永久循環
 - 守護能力の定義を修正しました。
 
 .. |power| image:: ./_static/icons/icon_power.png
-  :height: 20
-  :alt: 攻击力
+  :height: 12
+  :alt: power
 .. |hp| image:: ./_static/icons/icon_hp.png
+  :height: 20
+  :alt: hp
 .. |cost| image:: ./_static/icons/icon_cost.png
+  :height: 20
+  :alt: cost
 .. |stand| image:: ./_static/icons/icon_stand.png
+  :height: 20
+  :alt: stand
 .. |act| image:: ./_static/icons/icon_act.png
+  :height: 20
+  :alt: act
 .. |fanfare| image:: ./_static/icons/icon_fanfare.png
+  :height: 20
+  :alt: fanfare
 .. |lastword| image:: ./_static/icons/icon_lastword.png
+  :height: 20
+  :alt: lastword
 .. |evolve| image:: ./_static/icons/icon_evolve.png
+  :height: 20
+  :alt: evolve
 .. |quick| image:: ./_static/icons/icon_quick.png
+  :height: 20
+  :alt: quick
