@@ -1074,7 +1074,7 @@ _`14.2`. 永久循環
 - 守護能力の定義を修正しました。
 
 .. |power| image:: ./_static/icons/icon_power.png
-  :height: 12
+  :height: 16
   :alt: power
 .. |hp| image:: ./_static/icons/icon_hp.png
   :height: 20
